@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kabhi2004/Leetproblem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kabhi2004/Leetproblem/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kabhi2004/Leetproblem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kabhi2004/Leetproblem/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kabhi2004/Leetproblem/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
