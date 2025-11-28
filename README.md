@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kabhi2004/Leetproblem/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/kabhi2004/Leetproblem/tree/master/0228-summary-ranges) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kabhi2004/Leetproblem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kabhi2004/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/kabhi2004/Leetproblem/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
