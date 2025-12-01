@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kabhi2004/Leetproblem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kabhi2004/Leetproblem/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kabhi2004/Leetproblem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabhi2004/Leetproblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kabhi2004/Leetproblem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kabhi2004/Leetproblem/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kabhi2004/Leetproblem/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kabhi2004/Leetproblem/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/kabhi2004/Leetproblem/tree/master/0182-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
