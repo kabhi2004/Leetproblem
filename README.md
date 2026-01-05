@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kabhi2004/Leetproblem/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kabhi2004/Leetproblem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabhi2004/Leetproblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
