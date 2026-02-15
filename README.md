@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kabhi2004/Leetproblem/tree/master/0228-summary-ranges) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kabhi2004/Leetproblem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabhi2004/Leetproblem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0064-minimum-path-sum) |
+## Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
