@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kabhi2004/Leetproblem/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kabhi2004/Leetproblem/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kabhi2004/Leetproblem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
