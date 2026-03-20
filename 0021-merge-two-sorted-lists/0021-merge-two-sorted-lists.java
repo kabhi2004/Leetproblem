@@ -8,26 +8,38 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy = new ListNode(-1);
-        ListNode tail = dummy;
+        ListNode Temp=new ListNode(-1);
+        ListNode head=Temp;
 
-        while (list1 != null && list2 != null) {
-            if (list1.val < list2.val) {
-                tail.next = list1;
-                list1 = list1.next;
-            } else {
-                tail.next = list2;
-                list2 = list2.next;
+        while(list1!=null&&list2!=null)
+        {
+            if(list1.val<=list2.val)
+            {
+                Temp.next=list1;
+                list1=list1.next;
+                Temp=Temp.next;
             }
-            tail = tail.next;
+            else
+            {
+                Temp.next=list2;
+                list2=list2.next;
+                Temp=Temp.next;
+            }
         }
-
-        if (list1 != null) tail.next = list1;
-        else tail.next = list2;
-
-        return dummy.next;
+        while(list1!=null)
+        {
+            Temp.next=list1;
+            list1=list1.next;
+            Temp=Temp.next;
+        }
+        while(list2!=null)
+        {
+            Temp.next=list2;
+            list2=list2.next;
+            Temp=Temp.next;
+        }
+        return head.next;
     }
 }
