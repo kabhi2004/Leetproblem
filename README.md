@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/kabhi2004/Leetproblem/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/kabhi2004/Leetproblem/tree/master/0283-move-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kabhi2004/Leetproblem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kabhi2004/Leetproblem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kabhi2004/Leetproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kabhi2004/Leetproblem/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kabhi2004/Leetproblem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
