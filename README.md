@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kabhi2004/Leetproblem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kabhi2004/Leetproblem/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kabhi2004/Leetproblem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kabhi2004/Leetproblem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kabhi2004/Leetproblem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kabhi2004/Leetproblem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kabhi2004/Leetproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kabhi2004/Leetproblem/tree/master/0011-container-with-most-water) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kabhi2004/Leetproblem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
