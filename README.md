@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
+| [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
+| [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
 | ------- |
