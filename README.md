@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/kabhi2004/Leetproblem/tree/master/0509-fibonacci-number) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kabhi2004/Leetproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kabhi2004/Leetproblem/tree/master/0509-fibonacci-number) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
 |  |
 | ------- |
