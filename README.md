@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kabhi2004/Leetproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kabhi2004/Leetproblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kabhi2004/Leetproblem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kabhi2004/Leetproblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
 | ------- |
