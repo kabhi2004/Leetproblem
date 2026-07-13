@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kabhi2004/Leetproblem/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
