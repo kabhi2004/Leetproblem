@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/kabhi2004/Leetproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kabhi2004/Leetproblem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kabhi2004/Leetproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kabhi2004/Leetproblem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/kabhi2004/Leetproblem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kabhi2004/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kabhi2004/Leetproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/kabhi2004/Leetproblem/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kabhi2004/Leetproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
@@ -329,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
