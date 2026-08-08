@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kabhi2004/Leetproblem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kabhi2004/Leetproblem/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kabhi2004/Leetproblem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/kabhi2004/Leetproblem/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kabhi2004/Leetproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kabhi2004/Leetproblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kabhi2004/Leetproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kabhi2004/Leetproblem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kabhi2004/Leetproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kabhi2004/Leetproblem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kabhi2004/Leetproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
