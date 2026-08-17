@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kabhi2004/Leetproblem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kabhi2004/Leetproblem/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kabhi2004/Leetproblem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kabhi2004/Leetproblem/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kabhi2004/Leetproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kabhi2004/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/kabhi2004/Leetproblem/tree/master/1563-stone-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/kabhi2004/Leetproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kabhi2004/Leetproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kabhi2004/Leetproblem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kabhi2004/Leetproblem/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kabhi2004/Leetproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kabhi2004/Leetproblem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kabhi2004/Leetproblem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kabhi2004/Leetproblem/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kabhi2004/Leetproblem/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
