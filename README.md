@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/kabhi2004/Leetproblem/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kabhi2004/Leetproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kabhi2004/Leetproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabhi2004/Leetproblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kabhi2004/Leetproblem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/kabhi2004/Leetproblem/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kabhi2004/Leetproblem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
