@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kabhi2004/Leetproblem/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/kabhi2004/Leetproblem/tree/master/0283-move-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kabhi2004/Leetproblem/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0835-image-overlap](https://github.com/kabhi2004/Leetproblem/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/kabhi2004/Leetproblem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kabhi2004/Leetproblem/tree/master/1260-shift-2d-grid) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabhi2004/Leetproblem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/kabhi2004/Leetproblem/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kabhi2004/Leetproblem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kabhi2004/Leetproblem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
