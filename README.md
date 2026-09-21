@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kabhi2004/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/kabhi2004/Leetproblem/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kabhi2004/Leetproblem/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kabhi2004/Leetproblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kabhi2004/Leetproblem/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kabhi2004/Leetproblem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/kabhi2004/Leetproblem/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kabhi2004/Leetproblem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kabhi2004/Leetproblem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kabhi2004/Leetproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kabhi2004/Leetproblem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/kabhi2004/Leetproblem/tree/master/3524-find-x-value-of-array-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
 |  |
