@@ -15,15 +15,7 @@ class Solution {
                 minVal=Math.min(sum,minVal);
             }
         }
-        if(minVal==1001)
-        {
-            return -1;
-        }
-        else
-        {
-            return minVal;
-        }
-        
+       return minVal==1001?-1:minVal;
         
     }
 }
