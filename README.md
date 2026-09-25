@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kabhi2004/Leetproblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kabhi2004/Leetproblem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/kabhi2004/Leetproblem/tree/master/1833-maximum-ice-cream-bars) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kabhi2004/Leetproblem/tree/master/0290-word-pattern) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/kabhi2004/Leetproblem/tree/master/1386-cinema-seat-allocation) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/kabhi2004/Leetproblem/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/kabhi2004/Leetproblem/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kabhi2004/Leetproblem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kabhi2004/Leetproblem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/kabhi2004/Leetproblem/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kabhi2004/Leetproblem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kabhi2004/Leetproblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kabhi2004/Leetproblem/tree/master/0547-number-of-provinces) |
+| [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kabhi2004/Leetproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/kabhi2004/Leetproblem/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kabhi2004/Leetproblem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
