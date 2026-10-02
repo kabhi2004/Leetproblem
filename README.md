@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kabhi2004/Leetproblem/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kabhi2004/Leetproblem/tree/master/0115-distinct-subsequences) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kabhi2004/Leetproblem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabhi2004/Leetproblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kabhi2004/Leetproblem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kabhi2004/Leetproblem/tree/master/0067-add-binary) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kabhi2004/Leetproblem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kabhi2004/Leetproblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kabhi2004/Leetproblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
