@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/kabhi2004/Leetproblem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kabhi2004/Leetproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kabhi2004/Leetproblem/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/kabhi2004/Leetproblem/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kabhi2004/Leetproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kabhi2004/Leetproblem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kabhi2004/Leetproblem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kabhi2004/Leetproblem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kabhi2004/Leetproblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kabhi2004/Leetproblem/tree/master/0242-valid-anagram) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/kabhi2004/Leetproblem/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kabhi2004/Leetproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kabhi2004/Leetproblem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
