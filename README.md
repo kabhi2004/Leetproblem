@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/kabhi2004/Leetproblem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kabhi2004/Leetproblem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kabhi2004/Leetproblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kabhi2004/Leetproblem/tree/master/1386-cinema-seat-allocation) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kabhi2004/Leetproblem/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/kabhi2004/Leetproblem/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/kabhi2004/Leetproblem/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kabhi2004/Leetproblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kabhi2004/Leetproblem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kabhi2004/Leetproblem/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/kabhi2004/Leetproblem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kabhi2004/Leetproblem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/kabhi2004/Leetproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kabhi2004/Leetproblem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kabhi2004/Leetproblem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/kabhi2004/Leetproblem/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/kabhi2004/Leetproblem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kabhi2004/Leetproblem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kabhi2004/Leetproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/kabhi2004/Leetproblem/tree/master/3310-remove-methods-from-project) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kabhi2004/Leetproblem/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/kabhi2004/Leetproblem/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/kabhi2004/Leetproblem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kabhi2004/Leetproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/kabhi2004/Leetproblem/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kabhi2004/Leetproblem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kabhi2004/Leetproblem/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/kabhi2004/Leetproblem/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/kabhi2004/Leetproblem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kabhi2004/Leetproblem/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kabhi2004/Leetproblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kabhi2004/Leetproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kabhi2004/Leetproblem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
